@@ -1,6 +1,6 @@
 # Guangxin YANG · 杨广鑫
 
-<img src="./assets/vr-teleop.jpg" alt="VR teleoperation with a humanoid robot" align="right" width="280">
+![VR teleoperation with a humanoid robot](./assets/vr-teleop-banner.jpg)
 
 **Embodied AI · Robotics · Vision-Language-Action**
 
@@ -9,8 +9,6 @@ I'm a robotics master's student at Harbin Institute of Technology and work on VL
 哈工大机器人方向硕士生，在 RoboParty 从事 VLA 研究与开发。关注具身智能、灵巧操作，以及机器人在真实世界中的学习与行动。
 
 [**Explore my portfolio ↗**](http://182.254.135.103/) · [Projects & demos](http://182.254.135.103/#projects) · [Email](mailto:yangguangxin0825@gmail.com)
-
-<br clear="right">
 
 ---
 
