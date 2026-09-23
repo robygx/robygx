@@ -1,24 +1,23 @@
-# Guangxin YANG
+# Guangxin YANG · 杨广鑫
 
-Robotics projects and experiments focused on inverse kinematics, manipulation, and embodied AI.
+<img src="./assets/vr-teleop.jpg" alt="VR teleoperation with a humanoid robot" align="right" width="280">
 
-## Inverse kinematics
+**Embodied AI · Robotics · Vision-Language-Action**
 
-- [PiM-IK](https://github.com/robygx/pim-ik) - Physics-informed Mamba inverse kinematics for 7-DOF robotic arms.
-- [ygx_hl_ik_v2](https://github.com/robygx/ygx_hl_ik_v2) and [ygx_hl_ik](https://github.com/robygx/ygx_hl_ik) - Earlier IK and VR teleoperation experiments.
+I'm a robotics master's student at Harbin Institute of Technology and work on VLA research and development at RoboParty. I care about how robots learn from data, act reliably, and work in the real world.
 
-## Dexterous manipulation
+哈工大机器人方向硕士生，在 RoboParty 从事 VLA 研究与开发。关注具身智能、灵巧操作，以及机器人在真实世界中的学习与行动。
 
-- [xHand-Reoritation](https://github.com/robygx/xHand-Reoritation) - Isaac Gym-based hand reorientation experiments.
+[**Explore my portfolio ↗**](http://182.254.135.103/) · [Projects & demos](http://182.254.135.103/#projects) · [Email](mailto:yangguangxin0825@gmail.com)
 
-## Embodied AI and teleoperation
+<br clear="right">
 
-- [openpi_Dual_piper](https://github.com/robygx/openpi_Dual_piper) - OpenPI fork for dual Piper robot experiments.
-- [Psi0](https://github.com/robygx/Psi0), [wall-x](https://github.com/robygx/wall-x), and [GR00T-WholeBodyControl](https://github.com/robygx/GR00T-WholeBodyControl) - Upstream projects explored through forks.
-- [xr_teleoperate](https://github.com/robygx/xr_teleoperate) - XR-based humanoid teleoperation fork.
+---
 
-## Robot components
+### Current interests
 
-- [OpenArm ROS 2](https://github.com/robygx/openarm_ros2), [description](https://github.com/robygx/openarm_description), and [CAN](https://github.com/robygx/openarm_can) - OpenArm component forks.
+- **Robot learning** · VLA and whole-body control
+- **Manipulation** · dexterous hands and continuous action
+- **Human-to-robot interaction** · VR teleoperation and real-world systems
 
-Browse all [repositories](https://github.com/robygx?tab=repositories). Forks are labeled above to distinguish upstream work from original projects.
+I share selected projects and demos on my [personal website](http://182.254.135.103/). Public repositories will be added here as the work is ready to share.
